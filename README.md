@@ -3,13 +3,14 @@
 Hephaestes38 is a custom, 38 key, low profile, split unibody keyboard. I Intended it to be used with the Hands Down promethium layout, but that's really up to you! ZMK studio has also been integrated, so it's super easy to make any changes you wish. See the [writeup](https://github.com/DeppressedCabbage/Hephaestes38-zmk/blob/main/Keymap.md) on Hands Down Promethium and my specific combos/layers. I only use 3 Layers, but the firmware has a total of 5 for you to add any you like. 
 
 ****
-![IMG_1576](https://github.com/user-attachments/assets/c206e0e9-e8e3-4f4f-a6f7-3c6df7ae1382)
+![DSC_0005](https://github.com/user-attachments/assets/c34cf9ec-6cdd-44f9-88a6-1c2721de5c32)
 
 
 
 It's programmed on a Nice!Nano for wireless functonality, as well as compatibility for a Nice!View E-paper display to keep track of layers, battery status, or whatever else suits your fancy.
 
-![IMG_1578](https://github.com/user-attachments/assets/74d96422-0e8a-420f-8805-253d540ec945)
+![DSC_0016](https://github.com/user-attachments/assets/3e4e2051-0cba-49b0-83b5-9086db2ee62d)
+
 
 ***
 ### PCB's
@@ -46,9 +47,11 @@ This is the first version of they keyboard, and I forgot to add mounting holes t
 
 ### V2 Case
 
-Version 2 of the pcb and case are currently in progress, please follow for updates coming soon. In the meantime, here are some renders for your viewing pleasure. 
-<img width="4096" height="2096" alt="Hepheaestes38v2 Stylized ISO" src="https://github.com/user-attachments/assets/6006058e-cc1d-442e-91e4-e5b1ec489f6e" />
-<img width="4096" height="2096" alt="Hepheaestes38v2 Top down 45" src="https://github.com/user-attachments/assets/734e0533-52f4-456b-9186-9e6e937bd7c4" />
+Version 2 of the pcb and case Make some much needed improvements to allow for easier manufacturing, a slightly better fitment in terms of the screen and control board, and most importantly, holes to facilitate Case attachement. 
+
+![DSC_0011](https://github.com/user-attachments/assets/e79cd658-488b-4e21-96ef-06631afba09d)
+![DSC_0007](https://github.com/user-attachments/assets/2d7f1dbc-3482-42b0-b136-063fe66b08ac)
+
 
 ***
 ### To Do List
@@ -56,9 +59,9 @@ Version 2 of the pcb and case are currently in progress, please follow for updat
 - ✔Create Case
 - ✔Add via's to the pcb to facilitate Case attachement
 - ✔Refine Pcb to allow for diode attachment on both sides, along with turning Diode Footprint around
-- Lower profile?
+- ✖ Lower profile? - Coming Soon in a different project
 - ✔ Add zmk Studio support
-- Order V2 pcb's to confirm fitment
+- ✔ Order V2 pcb's to confirm fitment
 
 ***
 ### Credits
