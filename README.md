@@ -14,7 +14,7 @@ It's programmed on a Nice!Nano for wireless functonality, as well as compatibili
 
 ***
 ### PCB's
-All files to make your own pcb's can be found in the pcb's and cases folder. The Hepheaestes38_PCB-Gerbers.zip can be uploaded into any pcb manufacturer to get them made, and all of the kicad files are available if you want to make any edits. If you are looking for an assembled PCB, reach out to me at conturakeyboards@gmail.com. A website will be coming soon if you would like to purchase pcb's or fully assembled keyboards. Stay tuned. 
+All files to make your own pcb's can be found in the pcb's and cases folder. The Hepheaestes38_PCB-Gerbers.zip can be uploaded into any pcb manufacturer to get them made, and all of the kicad files are available if you want to make any edits. If you are looking for an assembled PCB, or even a full keyboard, they are available for purchase here at [ConturaKeboards](https://www.conturakeyboards.com/product-page/hephaestes38-keyboard). 
 
 ***
 ### BOM
